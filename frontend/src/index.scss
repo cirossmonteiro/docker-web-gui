@@ -1,0 +1,15 @@
+@import '~bootstrap/scss/bootstrap';
+
+html, body, #root {
+  height: 100%;
+}
+
+td {
+  vertical-align: top;
+}
+
+td, form {
+  svg {
+    cursor: pointer;
+  }
+}
